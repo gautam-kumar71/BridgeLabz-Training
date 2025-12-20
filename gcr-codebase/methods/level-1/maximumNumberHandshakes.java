@@ -1,0 +1,37 @@
+/*
+Create a program to find the maximum number of handshakes among students.
+Hint => 
+Get integer input for the numberOfStudents variable.
+Use the combination = (n * (n - 1)) / 2 formula to calculate the maximum number of possible handshakes.
+Write a method to use the combination formulae to calculate the number of handshakes
+Display the number of possible handshakes
+*/
+
+// Create maximumNumberHandshakes class to calculate maximum handshakes
+import java.util.Scanner;
+
+public class maximumNumberHandshakes {
+
+    public static int handshakesCalculator(int numberOfStudents)
+	{
+	   // Calculate maximum handshakes
+	   int handshakes = (numberOfStudents * (numberOfStudents - 1)) / 2;
+       return handshakes;
+	}
+
+    public static void main(String[] args) {
+
+        // Create Scanner object
+        Scanner input = new Scanner(System.in);
+
+        // Take number of students input
+        System.out.print("Enter number of students: ");
+        int numberOfStudents = input.nextInt();
+
+        // Display the result
+        System.out.println("The maximum number of possible handshakes is " + handshakesCalculator(numberOfStudents));
+
+        input.close();
+    }
+}
+
