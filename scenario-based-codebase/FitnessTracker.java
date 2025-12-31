@@ -9,7 +9,7 @@ import java.util.*;
 public class FitnessTracker{
 	static int [] trackPushups;
 	static int totalPushups=0;
-	public static double calculate(int[]trackPushups)
+	public static double calculate()
 	{
 
 		double average=0.0;
@@ -40,7 +40,7 @@ public class FitnessTracker{
   		System.out.println("Enter the number of push-ups of Day "+(++j));
   		trackPushups[i]=sc.nextInt();
   	}
-  	double store=calculate(trackPushups);
+  	double store=calculate();
   	display(store);
   }
 }
