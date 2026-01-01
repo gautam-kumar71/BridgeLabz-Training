@@ -1,0 +1,19 @@
+package com.inheritance.hierarchial.bankaccounttypes;
+
+
+public class BankAccount {
+
+    protected String accountNumber;
+    protected double balance;
+
+    // Constructor
+    public BankAccount(String accountNumber, double balance) {
+        this.accountNumber = accountNumber;
+        this.balance = balance;
+    }
+
+    public void displayBasicInfo() {
+        System.out.println("Account Number : " + accountNumber);
+        System.out.println("Balance        : ₹" + balance);
+    }
+}
