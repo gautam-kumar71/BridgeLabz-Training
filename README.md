@@ -2,6 +2,10 @@
 
 ## 📅 Week 1: Git, GitHub & Java Programming Fundamentals
 
+## 📘 Section A : Training Learning Progress
+
+---
+
 ### 🗓 Day 1 – Git & GitHub Setup
 
 **(Date: 15-Dec-2025)**
@@ -12,24 +16,24 @@
 ```
 BridgeLabz-Training/
 │── core-java-practice/
-│   │── gcr-codebase/
-│   │   │── arrays/
-│   │   │── control-flow/
-│   │   │── extras/
-│   │   │── methods/
-│   │   │── programming-elements/
-│   │   │── programming-requisites/
-│   │   │── strings/
-│   │── leet-code-codebase/
-│   │── scenario-based-codebase/
+│ 	│── gcr-codebase/
+│ 	│ 	│── arrays/
+│ 	│ 	│── control-flow/
+│ 	│ 	│── extras/
+│ 	│ 	│── methods/
+│ 	│ 	│── programming-elements/
+│ 	│ 	│── programming-requisites/
+│ 	│ 	│── strings/
+│ 	│── leet-code-codebase/
+│ 	│── scenario-based-codebase/
 │── README.md
 ```
 
 * Learned basic Git commands (`init`, `clone`, `add`, `commit`, `push`).
 * Successfully pushed files to the remote repository.
 
-🔗 **Core Folder (Root)**
-👉 [https://github.com/gautam-kumar71/BridgeLabz-Training/tree/core-java-practice](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/core-java-practice)
+🔗 **Code Link:**
+👉 [Day 1 – Core Java Practice](https://github.com/gautam-kumar71/BridgeLabz-Training)
 
 ---
 
@@ -42,7 +46,7 @@ BridgeLabz-Training/
 * Practiced adding, committing, and pushing Java files to GitHub.
 
 🔗 **Code Link:**
-👉 [https://github.com/gautam-kumar71/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-requisites](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-requisites)
+👉 [Day 2 – Program Prerequisites](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/program-prerequisites)
 
 ---
 
@@ -58,11 +62,11 @@ BridgeLabz-Training/
   * Arithmetic operators and operator precedence
   * Type conversion
   * Taking user input using `Scanner`
-* Solved practice programs based on the above concepts.
-* Committed and pushed all solutions to the repository.
+* Solved practice programs.
+* Committed and pushed all solutions.
 
 🔗 **Code Link:**
-👉 [https://github.com/gautam-kumar71/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)
+👉 [Day 3 – Programming Elements](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)
 
 ---
 
@@ -70,25 +74,21 @@ BridgeLabz-Training/
 
 **(Date: 18-Dec-2025)**
 
-* Studied logical constructs in Java:
+* Studied:
 
   * if, if-else
-  * switch statement
+  * switch
   * ternary operator
-* Practiced iteration statements:
+* Practiced loops:
 
-  * for loop
-  * while loop
-  * do-while loop
-* Used `break` and `continue` statements.
-* Solved logical problems such as:
-
-  * Factorial calculation
-  * Sum of Natural numbers
-* Committed and pushed solutions to the repository.
+  * for
+  * while
+  * do-while
+* Used `break` and `continue`.
+* Solved factorial and sum of natural numbers problems.
 
 🔗 **Code Link:**
-👉 [https://github.com/gautam-kumar71/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flows)
+👉 [Day 4 – Control Flow](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flows)
 
 ---
 
@@ -96,21 +96,14 @@ BridgeLabz-Training/
 
 **(Date: 19-Dec-2025)**
 
-* Studied arrays in Java:
+* Studied:
 
-  * Single-dimensional arrays
-  * Multi-dimensional arrays
-* Practiced array traversal and operations.
-* Solved problems related to:
-
-  * Basic array-based logic
-  * Digit frequency calculation
-  * Finding mean height
-* Strengthened logical thinking using array problems.
-* Committed and pushed solutions to the repository.
+  * 1D arrays
+  * 2D arrays
+* Solved problems like digit frequency and mean height.
 
 🔗 **Code Link:**
-👉 [https://github.com/gautam-kumar71/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
+👉 [Day 5 – Arrays](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
 
 ---
 
@@ -118,17 +111,11 @@ BridgeLabz-Training/
 
 **(Date: 20-Dec-2025)**
 
-* Studied Java methods:
-
-  * Method declaration
-  * Method calling
-  * Parameter passing
-* Practiced reusable logic using methods.
-* Implemented programs for reusable methods.
-* Committed and pushed solutions to the repository.
+* Studied method declaration, calling, and parameters.
+* Implemented reusable logic using methods.
 
 🔗 **Code Link:**
-👉 [https://github.com/gautam-kumar71/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods)
+👉 [Day 6 – Methods](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods)
 
 ---
 
@@ -138,50 +125,72 @@ BridgeLabz-Training/
 
 **(Date: 22-Dec-2025)**
 
-* Studied String concepts:
-
-  * String creation
-  * String methods
-  * Character processing
-* Implemented programs for string manipulation.
-* Committed and pushed solutions to the repository.
+* Studied string creation and methods.
+* Implemented string manipulation programs.
 
 🔗 **Code Link:**
-👉 [https://github.com/gautam-kumar71/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/strings](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/strings)
+👉 [Day 7 – Strings](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/string)
 
 ---
-
 
 ### 🗓 Day 8 – Extra Built-in Functions & String Practice
 
 **(Date: 23-Dec-2025)**
 
-* Practiced Java built-in classes such as `Math` and `Random`.
-* Worked with date and time handling using Java 8+ date-time APIs:
+* Practiced:
 
-  * `LocalDate`
-  * `LocalTime`
-  * `LocalDateTime`
-  * `ZonedDateTime`
-  * `DateTimeFormatter`
-* Practiced String concepts including:
-
-  * Creating strings and taking string input
-  * Escape sequences (`\`)
-  * String arrays
-  * Strings as method parameters
-  * Built-in `String` class methods
-  * ASCII character codes
-* Studied Java exception handling concepts:
-
-  * Java exception hierarchy
-  * Checked and unchecked exceptions
-  * `java.lang.RuntimeException`
-* Implemented utility programs such as a temperature converter.
-* Organized programs into appropriate folders.
-* Committed and pushed all changes successfully.
+  * `Math`, `Random`
+  * Java 8+ Date-Time API
+* Studied exception handling.
+* Implemented utility programs.
 
 🔗 **Code Link:**
-👉 [https://github.com/gautam-kumar71/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras)
+👉 [Day 8 – Extras](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras)
 
 ---
+
+## 🧩 Section B : Scenario-Based Problems Progress
+
+### 🗓 Day 9 to Day 13 – Scenario-Based Practice
+
+**(Dates: 24–31 Dec 2025)**
+
+* Solved multiple real-world problems.
+* Focused on clean logic and user interaction.
+* Regular commits and pushes.
+
+🔗 **Code Link:**
+👉 [Scenario-Based Problems](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+
+---
+
+## 🧮 Section C : LeetCode-based Problems Progress
+
+### Arrays
+
+👉 [https://github.com/gautam-kumar71/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/array](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/array)
+
+### Strings
+
+👉 [https://github.com/gautam-kumar71/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/string](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/string)
+
+### Math
+
+👉 [https://github.com/gautam-kumar71/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/math](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/math)
+
+### Methods
+
+👉 [https://github.com/gautam-kumar71/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/methods](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/methods)
+
+### Bit Manipulation
+
+👉 [https://github.com/gautam-kumar71/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/bit-manipulation](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/bit-manipulation)
+
+---
+
+### ✅ Final Base Repository
+
+🔗 **[https://github.com/gautam-kumar71/BridgeLabz-Training](https://github.com/gautam-kumar71/BridgeLabz-Training)**
+
+---
+
