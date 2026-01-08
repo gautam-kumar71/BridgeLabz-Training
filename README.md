@@ -4,8 +4,6 @@
 
 ## 📘 Section A : Training Learning Progress
 
----
-
 ### 🗓 Day 1 – Git & GitHub Setup
 
 **(Date: 15-Dec-2025)**
@@ -46,7 +44,7 @@ BridgeLabz-Training/
 * Practiced adding, committing, and pushing Java files to GitHub.
 
 🔗 **Code Link:**
-👉 [Day 2 – Program Prerequisites](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/program-prerequisites)
+👉 [Day 2 – Program Prequisites](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/program-prerequisites)
 
 ---
 
@@ -145,52 +143,123 @@ BridgeLabz-Training/
 * Implemented utility programs.
 
 🔗 **Code Link:**
-👉 [Day 8 – Extras](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras)
+👉 [Day 8 – Extra](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras)
 
 ---
 
 ## 🧩 Section B : Scenario-Based Problems Progress
 
-### 🗓 Day 9 to Day 13 – Scenario-Based Practice
+### 🗓 Day 9 – Scenario-Based Practice
 
-**(Dates: 24–31 Dec 2025)**
+**(Date: 24-Dec-2025)**
 
-* Solved multiple real-world problems.
-* Focused on clean logic and user interaction.
-* Regular commits and pushes.
+* Solved **2** scenario-based problems.
+* Focused on logical thinking and real-world problem solving.
+* Committed and pushed all solutions.
 
 🔗 **Code Link:**
-👉 [Scenario-Based Problems](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+👉 [Scenario Based Problems](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+
+---
+
+### 🗓 Day 10 – Scenario-Based Practice
+
+**(Date: 26-Dec-2025)**
+
+* Solved **3** scenario-based problems.
+* Focused on clean logic.
+* Committed and pushed all solutions.
+
+🔗 **Code Link:**
+👉 [Scenario Based Problems](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+
+---
+
+### 🗓 Day 11 – Scenario-Based Practice
+
+**(Date: 29-Dec-2025)**
+
+* Practiced **5** scenario-based problems.
+* Focused on logic and user interaction.
+* Committed and pushed all solutions.
+
+🔗 **Code Link:**
+👉 [Scenario Based Problems](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+
+---
+
+### 🗓 Day 12 – Scenario-Based Practice
+
+**(Date: 30-Dec-2025)**
+
+* Practiced **5** scenario-based problems.
+* Focused on logic and UI.
+* Committed and pushed all solutions.
+
+🔗 **Code Link:**
+👉 [Scenario Based Problems](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+
+---
+
+### 🗓 Day 13 – Scenario-Based Practice
+
+**(Date: 31-Dec-2025)**
+
+* Practiced **5** scenario-based problems.
+* Focused on logic and UI.
+* Committed and pushed all solutions.
+
+🔗 **Code Link:**
+👉 [Scenario Based Problems](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
 
 ---
 
 ## 🧮 Section C : LeetCode-based Problems Progress
 
-### Arrays
+### 🗓 Day 9 – LeetCode-based Practice
 
-👉 [https://github.com/gautam-kumar71/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/array](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/array)
+**(Date: 24-Dec-2025)**
+👉 [LeetCode Array Problems](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/array)
 
-### Strings
+### 🗓 Day 10 – LeetCode-based Practice
 
-👉 [https://github.com/gautam-kumar71/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/string](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/string)
+**(Date: 25-Dec-2025)**
+👉 [LeetCode Array Problems](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/array)
 
-### Math
+### 🗓 Day 11 – LeetCode-based Practice
 
-👉 [https://github.com/gautam-kumar71/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/math](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/math)
+**(Date: 26-Dec-2025)**
+👉 [LeetCode Array Problems](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/array)
 
-### Methods
+### 🗓 Day 12 – LeetCode-based Practice
 
-👉 [https://github.com/gautam-kumar71/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/methods](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/methods)
+**(Date: 27-Dec-2025)**
+👉 [LeetCode Strings Problems](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/string)
 
-### Bit Manipulation
+### 🗓 Day 13 – LeetCode-based Practice
 
-👉 [https://github.com/gautam-kumar71/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/bit-manipulation](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/bit-manipulation)
+**(Date: 28-Dec-2025)**
+👉 [LeetCode Strings Problems](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/string)
 
----
+### 🗓 Day 14 – LeetCode-based Practice
 
-### ✅ Final Base Repository
+**(Date: 29-Dec-2025)**
+👉 [LeetCode Strings Problems](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/string)
 
-🔗 **[https://github.com/gautam-kumar71/BridgeLabz-Training](https://github.com/gautam-kumar71/BridgeLabz-Training)**
+### 🗓 Day 15 – LeetCode-based Practice
+
+**(Date: 30-Dec-2025)**
+👉 [LeetCode Math Problems](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/math)
+
+### 🗓 Day 16 – LeetCode-based Practice
+
+**(Date: 31-Dec-2025)**
+👉 [LeetCode Math Problems](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/methods)
+
+### 🗓 Day 17 – LeetCode-based Practice
+
+**(Date: 01-Jan-2026)**
+👉 [LeetCode Bit-Manipulation Problems](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/bit-manipulation)
 
 ---
 
