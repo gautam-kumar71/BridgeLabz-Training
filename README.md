@@ -13,9 +13,9 @@
 ```
 BridgeLabz-Training/
 │── dsa-practice/
-│ 	│── gcr-codebase/
-│ 	│── leet-code-codebase/
-│ 	│── scenario-based-codebase/
+│   │── gcr-codebase/
+│   │── leet-code-codebase/
+│   │── scenario-based-codebase/
 │── README.md
 ```
 
@@ -43,22 +43,20 @@ BridgeLabz-Training/
   * `Deletion` (by value / position)
   * `Traversal`
   * `Searching elements`
-* Advantages and limitations of Linked List:
+* Advantages and limitations of Linked List
 
   * Dynamic size
   * No direct access, sequential traversal
 * Implemented Linked List programs in Java
 * Committed and pushed all work
-
-🔗 **Code Link:**
-👉 **Linked Lists**
-[https://github.com/gautam-kumar71/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAConcepts/src/com/linkedlists](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAConcepts/src/com/linkedlists)
+* 🔗 **Code Link:**
+  👉 [LinkedLists](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAConcepts/src/com/linkedlists)
 
 ---
 
 ### 🗓 Day 16 – Stacks, Queues, HashMap & Hash Functions
 
-**(Date: 02-Jan-2026)**
+**(Date: 03-Jan-2026)**
 
 * Studied `Stack` (LIFO) and `Queue` (FIFO) concepts.
 * Learned basic operations: `push`, `pop`, `peek`, `offer`, `poll`.
@@ -66,13 +64,69 @@ BridgeLabz-Training/
 * Studied HashMap and hashing basics (`put`, `get`, collisions).
 * Implemented HashMap and hash function concepts.
 * Committed and pushed all work.
+* 🔗 **Code Links:**
+  👉 [Stack and Queues](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAConcepts/src/com/stackandqueues)
+  👉 [HashMap and Hash Functions](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAConcepts/src/com/hashmap)
 
-🔗 **Code Links:**
-👉 **Stacks and Queues**
-[https://github.com/gautam-kumar71/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAConcepts/src/com/stackandqueues](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAConcepts/src/com/stackandqueues)
+---
 
-👉 **HashMap and Hash Functions**
-[https://github.com/gautam-kumar71/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAConcepts/src/com/hashmap](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAConcepts/src/com/hashmap)
+### 🗓 Day 17 – Sorting Algorithms
+
+**(Date: 05-Jan-2026)**
+
+* Studied Sorting Algorithms:
+
+  * Bubble Sort
+  * Insertion Sort
+  * Merge Sort
+  * Quick Sort
+  * Selection Sort
+  * Heap Sort
+  * Counting Sort
+* Understood algorithms and solved problem on each.
+* Committed and pushed all work.
+* 🔗 **Code Link:**
+  👉 [Sorting Algorithms](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAConcepts/src/com/sorting)
+
+---
+
+### 🗓 Day 18 – Searching Algorithms & Java Utilities
+
+**(Date: 06-Jan-2026)**
+
+* Studied Searching Algorithms:
+
+  * Linear Search
+  * Binary Search
+* Understood searching logic and comparison-based searching.
+* Studied Java mutable string classes:
+
+  * `StringBuilder`
+  * `StringBuffer`
+* Learned Java input handling using:
+
+  * `FileReader`
+  * `InputStreamReader`
+* Practiced implementations and solved problems on each concept.
+* Committed and pushed all work.
+* 🔗 **Code Link:**
+  👉 [Searching Algorithms & Java I/O Utilities](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAConcepts/src/com/ioandstringsandsearching)
+
+---
+
+### 🗓 Day 19 – Algorithm Runtime Analysis & Big-O Notation
+
+**(Date: 07-Jan-2026)**
+
+* Studied algorithm runtime analysis.
+* Understood Big-O notation and its importance.
+* Analyzed time complexity of algorithms.
+* Analyzed space complexity and memory usage.
+* Learned best, worst, and average case complexities.
+* Studied practical guidelines for optimizing Java code.
+* Committed and pushed all work.
+* 🔗 **Code Link:**
+  👉 [Runtime Analysis & Big-O Notation](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAConcepts/src/com/analysis)
 
 ---
 
