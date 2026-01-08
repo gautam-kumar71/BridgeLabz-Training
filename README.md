@@ -31,38 +31,41 @@ BridgeLabz-Training/
 │
 ├── 📁 core-java-practice/
 │   ├── 📁 gcr-codebase/
-│   │   ├── 📁 program-prerequisites/
-│   │   ├── 📁 programming-elements/
-│   │   ├── 📁 control-flows/
-│   │   ├── 📁 arrays/
-│   │   ├── 📁 methods/
-│   │   ├── 📁 string/
-│   │   └── 📁 extras/
-│   ├── 📁 leet-code-codebase/
-│   └── 📁 scenario-based-codebase/
+│   │   ├── 📁 program-prerequisites/  # Basic Java programs 
+│   │   ├── 📁 programming-elements/   # Java programming elements 
+│   │   ├── 📁 control-flows/          # If-else, loops, switch 
+│   │   ├── 📁 arrays/                 # Array operations
+│   │   ├── 📁 methods/                # Method practices
+│   │   ├── 📁 string/                 # String manipulation 
+│   │   └── 📁 extras/                 # Built-in methods
+│   ├── 📁 leet-code-codebase/         # LeetCode solutions
+│   └── 📁 scenario-based-codebase/    # Real-world problems
 │
 └── 📁 java-oops-practice/
 │   └── 📁 gcr-codebase/
-│       └── 📁 JavaOopsConcepts/
-│           └── 📁 src/
-│               └── 📁 com/
-│                   ├── 📁 classandobject/
-│                   ├── 📁 constructor/
-│                   ├── 📁 inbuiltfunction/
-│                   ├── 📁 objectmodelling/
-│                   ├── 📁 inheritance/
-│                   └── 📁 encapsulation/
-│   ├── 📁 leet-code-codebase/
-│   └── 📁 scenario-based-codebase/
-│
+│   │  └── 📁 JavaOopsConcepts/
+│   │       └── 📁 src/
+│   │           └── 📁 com/
+│   │               ├── 📁 classandobject/    # Procedural vs OOP, fundamentals
+│   │               └── 📁 constructor/       # Constructor, access modifiers
+│   │               └── 📁 inbuiltfunction/   # Keywords, instance vs class members
+│   │               └── 📁 objectmodelling/   # Diagrams, relationships, communication
+│   │               └── 📁 inheritance/       # Types, method overriding, & access modifiers
+│   │               └── 📁 encapsulation/     # Abstract class, interface, & polymorphism
+│   ├── 📁 leet-code-codebase/                # LeetCode solutions
+│   └── 📁 scenario-based-codebase/           # Real-world problems
 └── 📁 dsa-practice/
 │   └── 📁 gcr-codebase/
-│       └── 📁 DSAConcepts/
-│           └── 📁 src/
-│               └── 📁 com/
-│                   ├── 📁 linkedlists/
-│                   ├── 📁 stackandqueues/
-│                   └── 📁 hashmap/
+│   │  └── 📁 DSAConcepts/
+│   │       └── 📁 src/
+│   │           └── 📁 com/
+│   │               ├── 📁 linkedlists/                     # Singly, Doubly, Circular Linked List
+│   │               └── 📁 stackandqueues/                  # Stack & Queue
+│   │               └── 📁 hashmap/                         # HashMap + Hash Functions
+│   │               └── 📁 sorting/                         # Sorting Algorithms
+│   │               └── 📁 ioandstringsandsearching/        # Searching Algorithms
+│   │               └── 📁 analysis/                        # Runtime Analysis & Big-O Notation
+
 ```
 
 ---
@@ -95,41 +98,51 @@ BridgeLabz-Training/
 
 ### **Week 3 : Data Structures & Algorithms**
 
-| Day | Date   | Topic         | Coverage                 |
-| --- | ------ | ------------- | ------------------------ |
-| 15  | 02-Jan | Linked Lists  | Singly, Doubly, Circular |
-| 16  | 03-Jan | Stack & Queue | Stack, Queue, HashMap    |
+| Day | Date   | Topic                                     | Coverage                               |
+| --- | ------ | ----------------------------------------- | -------------------------------------- |
+| 15  | 02-Jan | Linked Lists                              | Singly, Doubly, Circular Linked List   |
+| 16  | 03-Jan | Stack, Queues, HashMap                    | Stacks, Queues, and HashMap            |
+| 17  | 05-Jan | Sorting                                   | Sorting Algorithms                     |
+| 18  | 06-Jan | Searching Algorithms & Java I/O Utilities | Searching Algorithms & String Building |
+| 19  | 07-Jan | Runtime Analysis & Big-O Notation         | Runtime Analysis, Big-O Notation       |
 
 ---
 
-## 🔑 Key Concepts Covered
+##  Key Concepts Covered
 
-### Core Java (`core-java-practice`)
+### Core Java (core-java-practice)
+-  **Fundamentals**: Variables, data types, operators
+-  **Control Structures**: If-else, loops, switch-case
+-  **Arrays**: Single & multi-dimensional arrays
+-  **Methods**: Parameters, return types, overloading
+-  **Strings**: Manipulation, comparisons, exceptions
+-  **Problem Solving**: LeetCode challenges, real-world scenarios
 
-* Variables, data types, operators
-* Control structures
-* Arrays & methods
-* Strings & exceptions
-* Scenario-based problem solving
+### Object-Oriented Programming (java-oops-practice)
+-  **Classes & Objects**: Creating and instantiating objects
+-  **Encapsulation**: Data hiding and access modifiers
+-  **Constructors**: Default, parameterized, overloading
+-  **Abstraction**: Interface-based design patterns
+-  **Inheritance**: Parent and Chlid relations
+-  **Polymorphism**: Method overloading and method overriding
+-  **Problem Solving**: LeetCode challenges, real-world scenarios
 
-### OOP (`java-oops-practice`)
-
-* Classes & objects
-* Encapsulation & abstraction
-* Constructors
-* Inheritance & polymorphism
-* Real-world design problems
-
-### DSA (`dsa-practice`)
-
-* Linked Lists
-* Stack & Queue
-* HashMap & hashing
-* Algorithmic problem solving
-
+### Data Structures and Algorithms (`dsa-practice`)
+- **Linked Lists**: Singly, Doubly, Circular Linked Lists
+- **Stacks**: LIFO concept, basic stack operations
+- **Queues**: FIFO concept, queue operations and use cases
+- **HashMap**: Key-value storage and common operations
+- **Hash Functions**: `hashCode()`, collisions, and hashing basics
+- **Sorting**: Different sorting techniques.
+- **Searching Algorithms & Java I/O Utilities**:Basics of searching and commonly used Java I/O and string classes.
+- **Runtime Analysis & Big-O Notation**:Runtime analysis, Big-O notation, time complexity, and case analysis.
 ---
 
 ## 🔗 Quick Links
+
+### `core-java-practice`
+
+---
 
 ### `core-java-practice`
 
@@ -143,30 +156,38 @@ BridgeLabz-Training/
 * 📌 [LeetCode Solutions](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
 * 📌 [Scenario-Based Solutions](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
 
+---
+
 ### `java-oops-practice`
 
 * 📌 [Classes & Objects](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/classandobject)
 * 📌 [Constructors](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/constructors)
-* 📌 [In Built Function](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/inbuiltfunction)
-* 📌 [Object Modelling](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/objectmodelling)
-* 📌 [Inheritance](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/inheritance)
-* 📌 [Encapsulation](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/encapsulation)
+* 📌 [this, final, static, instanceof](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/inbuiltfunction)
+* 📌 [Object Modeling & Relations](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/objectmodelling)
+* 📌 [Inheritance & Types](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/inheritance)
+* 📌 [Encapsulation & Polymorphism](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/encapsulation)
+* 📌 [LeetCode Solutions](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/leet-code-codebase)
+* 📌 [Scenario-Based Solutions](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOopsScenarios/src/com)
+
+---
 
 ### `dsa-practice`
 
 * 📌 [Linked Lists](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAConcepts/src/com/linkedlists)
 * 📌 [Stack & Queue](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAConcepts/src/com/stackandqueues)
-* 📌 [HashMap](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAConcepts/src/com/hashmap)
+* 📌 [HashMap & Hash Functions](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAConcepts/src/com/hashmap)
+* 📌 [Sorting Algorithms](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAConcepts/src/com/sorting)
+* 📌 [Searching Algorithms & Java I/O Utilities](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAConcepts/src/com/ioandstringsandsearching)
+* 📌 [Runtime Analysis & Big-O Notation](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAConcepts/src/com/analysis)
 
 ---
 
 ## 🎓 Learnings & Best Practices
 
-* Clean folder structure
-* Industry-standard naming conventions
-* Regular Git commits
-* Scenario-based thinking
-* Strong documentation habit
-
+-  **Code Organization**: Following industrial standards
+-  **Naming Conventions**: Camel case, Pascal case and meaningful names
+-  **Version Control**: Regular commits with descriptive messages
+-  **Problem-Solving**: Breaking complex problems into smaller tasks
+-  **Documentation**: Clear comments and README files
 ---
 
