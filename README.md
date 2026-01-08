@@ -4,7 +4,7 @@
 
 ---
 
-### 🗓 Day 10 – OOP Basics & Paradigm Comparison
+### 🗓 Day 9 – OOP Basics & Paradigm Comparison
 
 **(Date: 26-Dec-2025)**
 
@@ -32,11 +32,11 @@ BridgeLabz-Training/
 * Committed and pushed all work.
 
 🔗 **Code Link:**
-👉 [https://github.com/gautam-kumar71/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/classandobject](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/classandobject)
+👉 [Day 9 – Introduction to OOP: Class and Object](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/classandobject)
 
 ---
 
-### 🗓 Day 11 – Java Constructors, Instance vs. Class Variables, Access Modifiers Concepts
+### 🗓 Day 10 – Java Constructors, Instance vs. Class Variables, Access Modifiers Concepts
 
 **(Date: 27-Dec-2025)**
 
@@ -47,11 +47,11 @@ BridgeLabz-Training/
 * Applied the concepts through hands-on programs and committed all work.
 
 🔗 **Code Link:**
-👉 [https://github.com/gautam-kumar71/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/constructors/level1](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/constructors/level1)
+👉 [Day 10 – Java Constructors, Instance vs. Class Variables, Access Modifiers Concepts](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/constructors/level1)
 
 ---
 
-### 🗓 Day 12 – Java Keywords & Operators
+### 🗓 Day 11 – Java Keywords & Operators
 
 **(Date: 29-Dec-2025)**
 
@@ -62,19 +62,19 @@ BridgeLabz-Training/
 * Updated notes and committed work.
 
 🔗 **Code Link:**
-👉 [https://github.com/gautam-kumar71/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/inbuiltfunction/level1](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/inbuiltfunction/level1)
+👉 [Day 11 – Java Keywords & Operators](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/inbuiltfunction/level1)
 
 ---
 
-### 🗓 Day 13 – Object Modeling & Real-World Design
+### 🗓 Day 12 – Object Modeling & Real-World Design
 
 **(Date: 30-Dec-2025)**
 
 * Studied classes and objects and object modeling:
 
   * Class Diagram
-  * Object Diagram
-  * Sequence Diagram
+  * Object Diagrams
+  * Sequence Diagrams
 * Designed classes in Plain Old Java Object (POJO).
 * Learned object relationships:
 
@@ -84,11 +84,11 @@ BridgeLabz-Training/
 * Committed and pushed all work.
 
 🔗 **Code Link:**
-👉 [https://github.com/gautam-kumar71/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/objectmodelling](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/objectmodelling)
+👉 [Day 12 – Object Modelling and Relations](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/objectmodelling)
 
 ---
 
-### 🗓 Day 14 – Java Inheritance and Types
+### 🗓 Day 13 – Java Inheritance and Types
 
 **(Date: 31-Dec-2025)**
 
@@ -99,7 +99,7 @@ BridgeLabz-Training/
   * Hierarchical inheritance
   * Hybrid inheritance
 * Method Overriding and `@Override`.
-* Constructor inheritance using `super()`.
+* Constructor inheritance `super()`.
 * Polymorphism and Inheritance.
 * Access Modifiers and Inheritance:
 
@@ -110,38 +110,38 @@ BridgeLabz-Training/
 * Committed and pushed all work.
 
 🔗 **Code Link:**
-👉 [https://github.com/gautam-kumar71/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/inheritance](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/inheritance)
+👉 [Inheritance and Types](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/inheritance)
 
 ---
 
-### 🗓 Day 15 – Java Encapsulation & Polymorphism
+### 🗓 Day 14 – Java Encapsulation & Polymorphism
 
 **(Date: 01-Jan-2026)**
 
 * Studied Encapsulation & Polymorphism:
 
-  * Types of Polymorphism
+  * Types of Polymorphism:
 
-    * Compile-Time (Static)
-    * Runtime (Dynamic)
-  * Polymorphism with `interface`.
-  * Polymorphism with `abstract` classes.
-  * Casting and `instanceof`.
+    * Compile-Time (Static) Polymorphism
+    * Runtime (Dynamic) Polymorphism
+  * Polymorphism with `interface`
+  * Polymorphism with `abstract` classes
+  * Casting and `instanceof` with Polymorphism
 * Practiced Abstract Classes & Interfaces:
 
   * Abstract Class vs Interface
   * Interface vs Class
-* Learned best practices.
+* Learned more about best practices.
 * Committed and pushed all work.
 
 🔗 **Code Link:**
-👉 [https://github.com/gautam-kumar71/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/encapsulation](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/encapsulation)
+👉 [Encapsulation & Polymorphism](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/encapsulation)
 
 ---
 
 ## 🧩 Section B : Scenario-Based Problems Progress
 
-### 🗓 Day 16 – Scenario-Based Practice
+### 🗓 Day 15 – Scenario-Based Practice
 
 **(Date: 02-Jan-2026)**
 
@@ -149,12 +149,12 @@ BridgeLabz-Training/
 * Focused on logical thinking and real-world problem solving.
 * Committed and pushed all solutions.
 
-🔗 **Code Link:**
-👉 [https://github.com/gautam-kumar71/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOopsScenarios/src/com/day1](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOopsScenarios/src/com/day1)
+🔗 **Code Links:**
+👉 [Scenario Based Problems](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOopsScenarios/src/com/day1)
 
 ---
 
-### 🗓 Day 17 – Scenario-Based Practice
+### 🗓 Day 16 – Scenario-Based Practice
 
 **(Date: 03-Jan-2026)**
 
@@ -162,49 +162,126 @@ BridgeLabz-Training/
 * Focused on logical thinking and real-world problem solving.
 * Committed and pushed all solutions.
 
-🔗 **Code Link:**
-👉 [https://github.com/gautam-kumar71/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOopsScenarios/src/com/day2](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOopsScenarios/src/com/day2)
+🔗 **Code Links:**
+👉 [Scenario Based Problems](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOopsScenarios/src/com/day2)
+
+---
+
+### 🗓 Day 17 – Scenario-Based Practice
+
+**(Date: 05-Jan-2026)**
+
+* Solved **2** scenario-based problems.
+* Focused on logical thinking and real-world problem solving.
+* Committed and pushed all solutions.
+
+🔗 **Code Links:**
+👉 [Scenario Based Problems](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOopsScenarios/src/com/day3)
+
+---
+
+### 🗓 Day 18 – Scenario-Based Practice
+
+**(Date: 06-Jan-2026)**
+
+* Solved **4** scenario-based problems.
+* Focused on logical thinking and real-world problem solving.
+* Committed and pushed all solutions.
+
+🔗 **Code Links:**
+👉 [Scenario Based Problems](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOopsScenarios/src/com/day4)
+
+---
+
+### 🗓 Day 19 – Scenario-Based Practice
+
+**(Date: 07-Jan-2026)**
+
+* Solved **3** scenario-based problems.
+* Focused on logical thinking and real-world problem solving.
+* Committed and pushed all solutions.
+
+🔗 **Code Links:**
+👉 [Scenario Based Problems](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOopsScenarios/src/com/day5)
 
 ---
 
 ## 🧮 Section C : LeetCode-based Problems Progress
 
-### 🗓 Day 16 – LeetCode-based Practice
+### 🗓 Day 15 – LeetCode-based Practice
 
 **(Date: 02-Jan-2026)**
 
 * Practiced **3** classes and objects based problems.
-* Created driver-main method and took user inputs.
+* Created driver-main method & taken user inputs.
 * Committed and pushed all solutions.
 
-🔗 **Code Link:**
-👉 [https://github.com/gautam-kumar71/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/leet-code-codebase/classandobject](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/leet-code-codebase/classandobject)
+🔗 **Code Links:**
+👉 [LeetCode Class and Object Problems](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/leet-code-codebase/classandobject)
+
+---
+
+### 🗓 Day 16 – LeetCode-based Practice
+
+**(Date: 03-Jan-2026)**
+
+* Practiced **3** constructors problems.
+* Created driver-main method & taken user inputs.
+* Committed and pushed all solutions.
+
+🔗 **Code Links:**
+👉 [LeetCode Problems](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/leet-code-codebase/constructors)
 
 ---
 
 ### 🗓 Day 17 – LeetCode-based Practice
 
-**(Date: 03-Jan-2026)**
+**(Date: 04-Jan-2026)**
 
-* Practiced **3** constructors-based problems.
-* Created driver-main method and took user inputs.
+* Practiced **4** non-access modifiers problems.
+* Created driver-main method & taken user inputs.
 * Committed and pushed all solutions.
 
-🔗 **Code Link:**
-👉 [https://github.com/gautam-kumar71/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/leet-code-codebase/constructors](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/leet-code-codebase/constructors)
+🔗 **Code Links:**
+👉 [LeetCode Problems](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/leet-code-codebase/finalandstatic)
 
 ---
 
 ### 🗓 Day 18 – LeetCode-based Practice
 
-**(Date: 04-Jan-2026)**
+**(Date: 05-Jan-2026)**
 
-* Practiced **4** non-access modifier (`static`, `final`) problems.
-* Created driver-main method and took user inputs.
+* Practiced **4** inheritance problems.
+* Created driver-main method & taken user inputs.
 * Committed and pushed all solutions.
 
-🔗 **Code Link:**
-👉 [https://github.com/gautam-kumar71/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/leet-code-codebase/finalandstatic](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/leet-code-codebase/finalandstatic)
+🔗 **Code Links:**
+👉 [LeetCode Problems](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/leet-code-codebase/inheritance)
 
 ---
 
+### 🗓 Day 19 – LeetCode-based Practice
+
+**(Date: 06-Jan-2026)**
+
+* Practiced **4** class object problems.
+* Created driver-main method & taken user inputs.
+* Committed and pushed all solutions.
+
+🔗 **Code Links:**
+👉 [LeetCode Problems](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/leet-code-codebase/objectmodelling)
+
+---
+
+### 🗓 Day 20 – LeetCode-based Practice
+
+**(Date: 07-Jan-2026)**
+
+* Practiced **4** encapsulation problems.
+* Created driver-main method & taken user inputs.
+* Committed and pushed all solutions.
+
+🔗 **Code Links:**
+👉 [LeetCode Problems](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/leet-code-codebase/encapsulation)
+
+---
