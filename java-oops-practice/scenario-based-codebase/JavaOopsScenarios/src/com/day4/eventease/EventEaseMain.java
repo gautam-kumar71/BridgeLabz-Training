@@ -5,8 +5,8 @@ public class EventEaseMain {
     public static void main(String[] args) {
 
         User organizer = new User(
-                "Aryaman",
-                "aryaman@gmail.com",
+                "Naman",
+                "Naman@gmail.com",
                 "9876543210"
         );
 
