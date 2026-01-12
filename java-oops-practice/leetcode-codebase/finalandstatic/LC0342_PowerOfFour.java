@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class LC0342_PowerOfFour {
 
-    // Checks if the number is a power of four
+    // Defined a method to check if the number is a power of four
     public boolean isPowerOfFour(int n) {
 
         // Must be positive and power of two
