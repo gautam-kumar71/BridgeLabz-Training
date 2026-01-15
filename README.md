@@ -140,7 +140,7 @@ BridgeLabz-Training/
 - 🔗 **Code Links:**  
 👉 [Scenario Based Problems](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DataStructureScenarios/src/com/day1)
 
----
+
 ### 🗓 Day 21 – Scenario-Based Practice  
 **(Date: 12-Jan-2026)**
 - Solved **5** scenario-based problems.
@@ -149,6 +149,14 @@ BridgeLabz-Training/
 - 🔗 **Code Links:**  
 👉 [Scenario Based Problems](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DataStructureScenarios/src/com/day2)
 
+### 🗓 Day 22 – Scenario-Based Practice  
+**(Date: 13-Jan-2026)**
+- Solved **3** scenario-based problems.
+- Focused on logical thinking and real-world problem solving.
+- Committed and pushed all solutions.
+- 🔗 **Code Links:**  
+👉 [Scenario Based Problems](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DataStructureScenarios/src/com/day3)
+---
 
 ## 🧮 Section C : LeetCode-based Problems Progress
 
