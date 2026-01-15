@@ -132,9 +132,31 @@ BridgeLabz-Training/
 
 ## 🧩 Section B : Scenario-Based Problems Progress
 
+### 🗓 Day 20 – Scenario-Based Practice  
+**(Date: 10-Jan-2026)**
+- Solved **3** scenario-based problems.
+- Focused on logical thinking and real-world problem solving.
+- Committed and pushed all solutions.
+- 🔗 **Code Links:**  
+👉 [Scenario Based Problems](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DataStructureScenarios/src/com/day1))
+
 ---
 
 ## 🧮 Section C : LeetCode-based Problems Progress
 
+**(Date: 10-Jan-2026)**
+- Practiced **3** DSA problems.
+- Created driver-main method & taken user inputs.
+- Committed and pushed all solutions.
+- 🔗 **Code Links:**  
+👉 [LeetCode Problems - Arrays](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/dsa-practice/dsa-practice/leetcode-codebase/arrays)
 ---
+
+### 🗓 Day 21 – LeetCode-based Practice  
+**(Date: 11-Jan-2026)**
+- Practiced **4** DSA problems.
+- Created driver-main method & taken user inputs.
+- Committed and pushed all solutions.
+- 🔗 **Code Links:**  
+👉 [LeetCode Problems - Arrays](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/dsa-practice/dsa-practice//leet-code-codebase/arrays)
 
