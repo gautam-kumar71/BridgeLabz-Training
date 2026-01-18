@@ -228,8 +228,14 @@ BridgeLabz-Training/
 - 🔗 **Code Links:**  
 👉 [Scenario Based Problems](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOopsScenarios/src/com/day8)
 
+### 🗓 Day 23 – Scenario-Based Practice  
+**(Date: 13-Jan-2026)**
+- Solved **2** scenario-based problems.
+- Focused on logical thinking and real-world problem solving.
+- Committed and pushed all solutions.
+- 🔗 **Code Links:**  
+👉 [Scenario Based Problems](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOopsScenarios/src/com/day9)
 
----
 
 ---
 
@@ -310,5 +316,25 @@ BridgeLabz-Training/
 
 🔗 **Code Links:**
 👉 [LeetCode Problems](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/leet-code-codebase/encapsulation)
+
+### 🗓 Day 21 – LeetCode-based Practice  
+
+**(Date: 08-Jan-2026)**
+
+- Practiced **2** polymorphism problems.
+- Created driver-main method & taken user inputs.
+- Committed and pushed all solutions.
+- 🔗 **Code Links:**  
+👉 [LeetCode Problems](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/leet-code-codebase/polymorphism)
+
+### 🗓 Day 22 – LeetCode-based Practice  
+
+**(Date: 09-Jan-2026)**
+
+- Practiced **5** array string problems.
+- Created driver-main method & taken user inputs.
+- Committed and pushed all solutions.
+- 🔗 **Code Links:**  
+👉 [LeetCode Problems](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/leet-code-codebase/arraystring)
 
 ---
