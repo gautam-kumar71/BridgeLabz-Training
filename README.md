@@ -19,7 +19,7 @@ BridgeLabz-Training/
 │   │   │   │   │── com/
 │   │   │   │   │   │── classandobject/
 │   │
-│   │── leet-code-codebase/
+│   │── leetcode-codebase/
 │   │── scenario-based-codebase/
 │   │── .gitignore
 │── README.md
@@ -250,7 +250,7 @@ BridgeLabz-Training/
 * Committed and pushed all solutions.
 
 🔗 **Code Links:**
-👉 [LeetCode Class and Object Problems](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/leet-code-codebase/classandobject)
+👉 [LeetCode Class and Object Problems](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/leetcode-codebase/classandobject)
 
 ---
 
@@ -263,7 +263,7 @@ BridgeLabz-Training/
 * Committed and pushed all solutions.
 
 🔗 **Code Links:**
-👉 [LeetCode Problems](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/leet-code-codebase/constructors)
+👉 [LeetCode Problems](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/leetcode-codebase/constructors)
 
 ---
 
@@ -276,7 +276,7 @@ BridgeLabz-Training/
 * Committed and pushed all solutions.
 
 🔗 **Code Links:**
-👉 [LeetCode Problems](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/leet-code-codebase/finalandstatic)
+👉 [LeetCode Problems](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/leetcode-codebase/finalandstatic)
 
 ---
 
@@ -289,7 +289,7 @@ BridgeLabz-Training/
 * Committed and pushed all solutions.
 
 🔗 **Code Links:**
-👉 [LeetCode Problems](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/leet-code-codebase/inheritance)
+👉 [LeetCode Problems](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/leetcode-codebase/inheritance)
 
 ---
 
@@ -302,7 +302,7 @@ BridgeLabz-Training/
 * Committed and pushed all solutions.
 
 🔗 **Code Links:**
-👉 [LeetCode Problems](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/leet-code-codebase/objectmodelling)
+👉 [LeetCode Problems](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/leetcode-codebase/objectmodelling)
 
 ---
 
@@ -315,7 +315,7 @@ BridgeLabz-Training/
 * Committed and pushed all solutions.
 
 🔗 **Code Links:**
-👉 [LeetCode Problems](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/leet-code-codebase/encapsulation)
+👉 [LeetCode Problems](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/leetcode-codebase/encapsulation)
 
 ### 🗓 Day 21 – LeetCode-based Practice  
 
@@ -325,7 +325,7 @@ BridgeLabz-Training/
 - Created driver-main method & taken user inputs.
 - Committed and pushed all solutions.
 - 🔗 **Code Links:**  
-👉 [LeetCode Problems](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/leet-code-codebase/polymorphism)
+👉 [LeetCode Problems](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/leetcode-codebase/polymorphism)
 
 ### 🗓 Day 22 – LeetCode-based Practice  
 
@@ -335,6 +335,6 @@ BridgeLabz-Training/
 - Created driver-main method & taken user inputs.
 - Committed and pushed all solutions.
 - 🔗 **Code Links:**  
-👉 [LeetCode Problems](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/leet-code-codebase/arraystring)
+👉 [LeetCode Problems](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/leetcode-codebase/arraystring)
 
 ---
