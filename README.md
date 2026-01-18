@@ -156,10 +156,27 @@ BridgeLabz-Training/
 - Committed and pushed all solutions.
 - 🔗 **Code Links:**  
 👉 [Scenario Based Problems](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DataStructureScenarios/src/com/day3)
+
+### 🗓 Day 23 – Scenario-Based Practice  
+**(Date: 15-Jan-2026)**
+- Solved **5** scenario-based problems.
+- Focused on logical thinking and real-world problem solving.
+- Committed and pushed all solutions.
+- 🔗 **Code Links:**  
+👉 [Scenario Based Problems](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DataStructureScenarios/src/com/day4)
+
+### 🗓 Day 24 – Scenario-Based Practice  
+**(Date: 16-Jan-2026)**
+- Solved **5** scenario-based problems.
+- Focused on logical thinking and real-world problem solving.
+- Committed and pushed all solutions.
+- 🔗 **Code Links:**  
+👉 [Scenario Based Problems](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DataStructureScenarios/src/com/day5)
+
 ---
 
 ## 🧮 Section C : LeetCode-based Problems Progress
-
+### 🗓 Day 20 – LeetCode-based Practice  
 **(Date: 10-Jan-2026)**
 - Practiced **3** DSA problems.
 - Created driver-main method & taken user inputs.
@@ -184,3 +201,28 @@ BridgeLabz-Training/
 - Committed and pushed all solutions.
 - 🔗 **Code Links:**  
 👉 [LeetCode Problems - Arrays](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/dsa-practice/dsa-practice//leetcode-codebase/arrays)
+
+### 🗓 Day 23 – LeetCode-based Practice  
+**(Date: 13-Jan-2026)**
+- Practiced **3** DSA problems.
+- Created driver-main method & taken user inputs.
+- Committed and pushed all solutions.
+- 🔗 **Code Links:**  
+👉 [LeetCode Problems - Arrays](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/dsa-practice/dsa-practice//leet-code-codebase/arrays)
+
+### 🗓 Day 24 – LeetCode-based Practice  
+**(Date: 14-Jan-2026)**
+- Practiced **4** DSA problems.
+- Created driver-main method & taken user inputs.
+- Committed and pushed all solutions.
+- 🔗 **Code Links:**  
+👉 [LeetCode Problems - Strings](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/dsa-practice/dsa-practice//leetcode-codebase/strings)
+
+### 🗓 Day 25 – LeetCode-based Practice  
+**(Date: 15-Jan-2026)**
+- Practiced **4** DSA problems.
+- Created driver-main method & taken user inputs.
+- Committed and pushed all solutions.
+- 🔗 **Code Links:**  
+👉 [LeetCode Problems - Strings](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/dsa-practice/dsa-practice//leetcode-codebase/strings)
+
