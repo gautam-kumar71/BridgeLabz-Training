@@ -15,13 +15,18 @@ BridgeLabz-Training/
 │── java-oops-practice/
 │   │── gcr-codebase/
 │   │   │── JavaOopsConcepts/
-│   │   │   │── src/
-│   │   │   │   │── com/
-│   │   │   │   │   │── classandobject/
-│   │
-│   │── leetcode-codebase/
+│   │       │── src/
+│   │           │── com/
+│   │               │── classandobject/
+│   │               │── constructors/
+│   │               │── inbuiltfunction/
+│   │               │── objectmodelling/
+│   │               │── inheritance/
+│   │               │── encapsulation/
+|   |   
+│   │── leet-code-codebase/
 │   │── scenario-based-codebase/
-│   │── .gitignore
+│── .gitignore
 │── README.md
 ```
 
@@ -244,6 +249,14 @@ BridgeLabz-Training/
 - 🔗 **Code Links:**  
 👉 [Scenario Based Problems](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOopsScenarios/src/com/day10)
 
+
+### 🗓 Day 25 – Scenario-Based Practice  
+**(Date: 19-Jan-2026)**
+- Solved **1** scenario-based problems.
+- Focused on logical thinking and real-world problem solving.
+- Committed and pushed all solutions.
+- 🔗 **Code Links:**  
+👉 [Scenario Based Problems](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOopsScenarios/src/com/day11)
 ---
 
 ## 🧮 Section C : LeetCode-based Problems Progress
