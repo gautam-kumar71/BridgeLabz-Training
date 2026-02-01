@@ -26,19 +26,19 @@ public class SmartHomeLightingApp {
 
 	    switch (trigger) {
 	    case "motion":
-		behavior = (_) -> System.out.print("Motion detected → Bright full light! ");
+		behavior = (k) -> System.out.print("Motion detected → Bright full light! ");
 		break;
 
 	    case "evening":
-		behavior = (_) -> System.out.print("Evening time → Warm dim glow! ");
+		behavior = (k) -> System.out.print("Evening time → Warm dim glow! ");
 		break;
 
 	    case "voice":
-		behavior = (_) -> System.out.print("Voice command → Color changing party mode! ");
+		behavior = (k) -> System.out.print("Voice command → Color changing party mode! ");
 		break;
 
 	    case "off":
-		behavior = (_) -> System.out.print("Turn off command → Lights going dark. ");
+		behavior = (k) -> System.out.print("Turn off command → Lights going dark. ");
 		break;
 
 	    default:
