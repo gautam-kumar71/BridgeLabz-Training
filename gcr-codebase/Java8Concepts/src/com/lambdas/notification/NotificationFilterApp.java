@@ -53,12 +53,12 @@ public class NotificationFilterApp {
 
 	case 4:
 	    // show all (always true)
-	    filter = _ -> true;
+	    filter = k -> true;
 	    break;
 
 	default:
 	    System.out.println("Invalid choice. Showing all alerts.");
-	    filter = _ -> true;
+	    filter = k -> true;
 	    break;
 	}
 
