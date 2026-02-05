@@ -28,7 +28,7 @@ This repository documents my learning journey at BridgeLabz, spanning from **Dec
 
 ### 🔹 [java-iostreams-practice](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/java-iostreams-practice)
 
-**Week 5** : Java I/O Streams.
+**Week 5** : Java I/O Streams
 
 ### 🔹 [java8-programming-practice](https://github.com/gautam-kumar71/BridgeLabz-Training/tree/java8-programming-practice)
                                     
