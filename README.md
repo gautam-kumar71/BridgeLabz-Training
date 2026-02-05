@@ -170,7 +170,7 @@ This repository documents my learning journey at BridgeLabz, spanning from **Dec
 | 17  | 05-Jan | Sorting                                   | Sorting Algorithms                     |
 | 18  | 06-Jan | Searching Algorithms & Java I/O Utilities | Searching Algorithms & String Building |
 | 19  | 07-Jan | Runtime Analysis & Big-O Notation         | Runtime Analysis, Big-O Notation       |
-| 20  | 13-Jan | Trees & Binary Search Trees               | Basics, types and CRUD operations      |
+| 20  | 13-Jan | Trees & Binary Search Trees .             | Basics, types and CRUD operations      |
 | 21  | 15-Jan | Graphs (DFS & BFS)                        | Basics and traversal algorithms        |
 
 ### **Week 4 : Collections Framework in Java**
